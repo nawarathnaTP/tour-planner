@@ -11,6 +11,5 @@ public class User extends Person {
     private Enum<Active, Suspended, Pending> status;
 
     private Enum<Guest, Guide, Admin> role;
-
-
+    
 }
